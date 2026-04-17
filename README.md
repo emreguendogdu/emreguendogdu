@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+A photorealistic, close-up midsection shot of a highly fit, athletic woman in a bright, modern indoor setting. She is wearing a matching pristine white seamless sports bra with thin straps and high-waisted white yoga leggings with a thick ribbed waistband. Her torso is angled slightly, with one hand resting lightly on her lower hip, showcasing lean muscle definition, a flat toned stomach, and healthy, glowing skin. The background is softly blurred (bokeh) with large windows letting in abundant natural daylight. Shot on an 85mm lens, f/2.8 for shallow depth of field. Commercial fitness photography, soft diffused lighting, emphasizing health, vitality, and wellness.
+
+Premium commercial photography for a luxury health and wellness brand. A highly detailed torso shot of a healthy, toned female figure demonstrating anti-aging vitality and peak fitness. She is dressed in bright white minimalist athletic wear. The lighting is bright, uplifting, and clean, streaming through a large modern window in a high-end clinic or studio. The focus is on her sculpted core, flawless glowing skin, and lean physique, representing metabolic health and rejuvenation. Cinematic lighting, sharp focus on the subject's midsection, 8k resolution, photorealistic lifestyle aesthetic.
+
 <!--
 **emreguendogdu/emreguendogdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
