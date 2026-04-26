@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Emre
 
-I'm a frontend engineer based in Da Nang, Vietnam, focused on building web applications where the frontend directly affects revenue - checkout flows, intake funnels, business websites, dashboards, and complex forms.
+I'm a frontend engineer focused on building web applications where the frontend directly affects revenue - checkout flows, intake funnels, business websites, dashboards, and complex forms.
 
 Over the past year I've worked with DTC health and telehealth brands. Building Stripe subscription infrastructure, multi-step intake systems, landing pages, payment integrations, and HIPAA-compliant lifecycle/tracking flows.
 
