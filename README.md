@@ -30,6 +30,9 @@ Feel free to look through my projects and reach out if you'd like to work togeth
 
 #### Connect with me:
 🌐 [emregnd.com](https://emregnd.com)
+
 💼 [LinkedIn](https://linkedin.com/in/emregnd)
+
 💼 [Upwork](https://upwork.com/freelancers/emregnd)
+
 🎨 [Dribbble](https://dribbble.com/emregnd)
