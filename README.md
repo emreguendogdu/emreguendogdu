@@ -21,7 +21,7 @@ These days that means working with 8-figure DTC and telehealth brands. Interface
 Most client work sits in private repos. These are public:
 
 - **[ethera-supplements](https://github.com/emreguendogdu/ethera-supplements)** — fictional supplement brand with a 3D product viewer, animated hero, and real cart/stock logic. Next.js, Three.js, R3F. → [live](https://ethera-supplements.vercel.app)
-- **[laodikya-webtasarim](https://github.com/emreguendogdu/laodikya-webtasarim)** — agency site for the freelance studio I ran, built with Astro. → [live](https://laodikyaweb.com)
+- **[uzay-psikoloji](https://github.com/emreguendogdu/uzay-psikoloji)** — site for a psychology practice, built around getting people to book. → [live](https://uzaypsikolojidemo.netlify.app)
 - **[uzay-mimarlik](https://github.com/emreguendogdu/uzay-mimarlik)** — architecture studio site, quiet and typography-led. → [live](https://uzaymimarlikdemo.netlify.app)
 - **[zen-tattoo](https://github.com/emreguendogdu/zen-tattoo)** — business site for a tattoo studio, booking-focused. → [live](https://zen-tattoo.vercel.app)
 - **[data-visualization-projects](https://github.com/emreguendogdu/data-visualization-projects)** — five datasets, one React app, interactive D3 charts. → [live](https://emreguendogdu.github.io/data-visualization-projects/)
