@@ -22,4 +22,4 @@ Full-time on a long-term contract building telehealth intake and checkout flows.
 
 ### Reach me
 
-[emregnd.com](https://emregnd.com) · [LinkedIn](https://www.linkedin.com/in/emregnd) · [Dribbble](https://dribbble.com/emregnd) · [Book a call](https://cal.com/emregnd/inquiry)
+[emregnd.com](https://emregnd.com) · [Upwork](https://www.upwork.com/freelancers/emregnd) · [LinkedIn](https://www.linkedin.com/in/emregnd) · [Dribbble](https://dribbble.com/emregnd) · [Book a call](https://cal.com/emregnd/inquiry)
