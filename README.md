@@ -20,6 +20,6 @@ These days that means working with 9-figure DTC and telehealth brands. Interface
 
 Full-time on a long-term contract building telehealth intake and checkout flows. Open to interesting frontend and product engineering work alongside it.
 
-### Reach me
+### Reach me 
 
 [emregnd.com](https://emregnd.com) · [Upwork](https://www.upwork.com/freelancers/emregnd) · [LinkedIn](https://www.linkedin.com/in/emregnd) · [Dribbble](https://dribbble.com/emregnd) · [Book a call](https://cal.com/emregnd/inquiry)
