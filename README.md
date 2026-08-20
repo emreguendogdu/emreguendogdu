@@ -2,7 +2,7 @@
 
 **Frontend & Product Engineer.** I build the part of a product closest to the money: checkout, payment flows, funnels, and intake systems that thousands of people move through every day.
 
-These days that means working with 8-figure DTC and telehealth brands. Interfaces that look premium, and underneath them Stripe flows that don't break, integrations that don't drop a record, and tracking you can actually trust. Top Rated Plus on Upwork.
+These days that means working with 9-figure DTC and telehealth brands. Interfaces that look premium, and underneath them Stripe flows that don't break, integrations that don't drop a record, and tracking you can actually trust. Top Rated Plus on Upwork.
 
 ### What I do
 
