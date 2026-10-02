@@ -13,7 +13,7 @@ These days that means working with 9-figure DTC and telehealth brands. Interface
 
 ### Stack
 
-`TypeScript` `React` `Next.js` `Tailwind` `Framer Motion` `Three.js / R3F`
+`TypeScript` `React` `Next.js` `Tailwind` `Motion` `GSAP` `Three.js / R3F`
 `Node` `Cloudflare Workers` `PostgreSQL` `Stripe` `Figma`
 
 ### Now
